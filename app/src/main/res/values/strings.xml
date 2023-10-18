@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="full_name">Andi Muhammad Sabar</string>
+    <string name="title">Android Developer Student</string>
+    <string name="phone_number">+6281350132939</string>
+    <string name="share_text">\@AndroidDev</string>
+    <string name="email">sabaram21d@student.unhas.ac.id</string>
+</resources>
